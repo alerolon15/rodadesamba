@@ -12,7 +12,7 @@ body {
   color: #777777;
 }
 .text-primary {
-  color: #fed136;
+  color: #FEAE36;
 }
 p {
   font-size: 14px;
@@ -647,7 +647,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-  background-color: #fed136;
+  background-color: #FEAE36;
 }
 .btn:focus,
 .btn:active,
