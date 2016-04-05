@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /img/
+Disallow: /mail/
+Disallow: /less/
+Disallow: /fonts/
+Disallow: /css/
+Disallow: /*.js$
+Disallow: /*.css$
+Sitemap: https://alegriageral.com.ar/sitemap.xml
