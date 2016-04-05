@@ -6,4 +6,4 @@ Disallow: /fonts/
 Disallow: /css/
 Disallow: /*.js$
 Disallow: /*.css$
-Sitemap: https://alegriageral.com.ar/sitemap.xml
+Sitemap: http://www.alegriageral.com.ar/sitemap.xml
