@@ -116,6 +116,9 @@ fieldset[disabled] .btn-primary.active {
   font-size: 18px;
   padding: 20px 40px;
 }
+@media (max-width: 768px) {
+.btn-xl{padding: 5px 5px;}
+}
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
