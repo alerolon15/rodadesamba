@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /img/
 Disallow: /mail/
 Disallow: /less/
 Disallow: /fonts/
